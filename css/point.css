@@ -1,0 +1,10 @@
+/* 
+    点的样式
+*/
+
+.chestnutsPoint{
+    background-color: red;
+    width: 1px;
+    height: 1px;
+    position: absolute;
+}
